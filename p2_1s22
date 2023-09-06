@@ -1,0 +1,9 @@
+class p2_1s22{
+	public static void main(String[] args) {
+	    System.out.println("Alan Jael Ceron Flores");
+	    System.out.println("19 años");
+	    System.out.println("ceronalan195@gmail.com");
+	    System.out.println("me gusta dibujar");
+	    System.out.println("mi color favorito es el azul marino");
+	}
+}
